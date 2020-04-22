@@ -42,7 +42,7 @@
    </snapshotRepository>
   </distributionManagement>
 <build>
-    <!-- To define the plugin version in your parent POM -->
+    <!-- modified 2020 apr To define the plugin version in your parent POM -->
     <pluginManagement>
       <plugins>
         <plugin>
